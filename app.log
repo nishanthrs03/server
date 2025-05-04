@@ -1,0 +1,870 @@
+2025-05-03 22:29:19,914 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.113:5000
+2025-05-03 22:29:19,915 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 22:29:19,942 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 22:29:41,797 - WARNING -  * Debugger is active!
+2025-05-03 22:29:41,816 - INFO -  * Debugger PIN: 724-066-795
+2025-05-03 23:47:27,720 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\utils\\volume_estimation_copy.py', reloading
+2025-05-03 23:47:27,758 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\utils\\volume_estimation.py', reloading
+2025-05-03 23:47:27,761 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\utils\\openai_utils.py', reloading
+2025-05-03 23:47:27,765 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\utils\\nutritionix.py', reloading
+2025-05-03 23:47:27,772 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\utils\\gemini_utils.py', reloading
+2025-05-03 23:47:27,773 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\utils\\food_rag.py', reloading
+2025-05-03 23:47:27,780 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\test_rag.py', reloading
+2025-05-03 23:47:27,794 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:47:41,823 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 23:48:38,010 - WARNING -  * Debugger is active!
+2025-05-03 23:48:38,051 - INFO -  * Debugger PIN: 724-066-795
+2025-05-03 23:50:09,382 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:50:09,382 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:50:11,173 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 23:50:35,589 - WARNING -  * Debugger is active!
+2025-05-03 23:50:35,611 - INFO -  * Debugger PIN: 724-066-795
+2025-05-03 23:51:15,447 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:51:15,450 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:51:17,349 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 23:51:50,669 - WARNING -  * Debugger is active!
+2025-05-03 23:51:50,704 - INFO -  * Debugger PIN: 724-066-795
+2025-05-03 23:51:59,727 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:51:59,729 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-03 23:52:02,790 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 23:52:42,730 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.113:5000
+2025-05-03 23:52:42,735 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-03 23:52:42,782 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-03 23:53:05,249 - WARNING -  * Debugger is active!
+2025-05-03 23:53:05,281 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 00:00:54,190 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 00:00:54,222 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 00:01:02,509 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 00:01:29,658 - __main__ - INFO - Logger initialized
+2025-05-04 00:01:29,658 - __main__ - INFO - Flask app created with CORS enabled
+2025-05-04 00:01:29,658 - __main__ - INFO - Environment variables loaded from .env file
+2025-05-04 00:01:29,658 - __main__ - INFO - Upload folder configured: C:\Nishanth\food-calorie-estimator\server\uploads
+2025-05-04 00:01:29,658 - __main__ - INFO - Starting Flask application
+2025-05-04 00:01:29,690 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 00:01:29,715 - werkzeug - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 00:04:07,853 - werkzeug - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 00:04:07,856 - werkzeug - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 00:04:09,602 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 00:04:34,523 - __main__ - INFO - Logger initialized
+2025-05-04 00:04:34,527 - __main__ - INFO - Flask app created with CORS enabled
+2025-05-04 00:04:34,527 - __main__ - INFO - Environment variables loaded from .env file
+2025-05-04 00:04:34,527 - __main__ - INFO - Upload folder configured: C:\Nishanth\food-calorie-estimator\server\uploads
+2025-05-04 00:04:34,527 - __main__ - INFO - Starting Flask application
+2025-05-04 00:05:37,507 - werkzeug - WARNING -  * Debugger is active!
+2025-05-04 00:05:37,527 - werkzeug - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 00:16:55,072 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.113:5000
+2025-05-04 00:16:55,079 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 00:16:55,136 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 00:17:29,261 - WARNING -  * Debugger is active!
+2025-05-04 00:17:29,284 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 00:17:40,414 - INFO - 127.0.0.1 - - [04/May/2025 00:17:40] "GET / HTTP/1.1" 200 -
+2025-05-04 00:17:40,762 - INFO - 127.0.0.1 - - [04/May/2025 00:17:40] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-04 00:17:46,404 - INFO - 127.0.0.1 - - [04/May/2025 00:17:46] "[33mGET /post HTTP/1.1[0m" 404 -
+2025-05-04 00:21:25,077 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 00:21:25,085 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 00:21:33,430 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:24:22,557 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.113:5000
+2025-05-04 01:24:22,573 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 01:24:22,654 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:24:46,775 - WARNING -  * Debugger is active!
+2025-05-04 01:24:46,834 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 01:26:53,869 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:26:53,878 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:27:00,763 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:27:26,319 - WARNING -  * Debugger is active!
+2025-05-04 01:27:26,338 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 01:27:30,981 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:27:30,981 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:27:33,315 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:27:59,281 - WARNING -  * Debugger is active!
+2025-05-04 01:27:59,298 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 01:29:02,952 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.113:5000
+2025-05-04 01:29:02,953 - INFO - [33mPress CTRL+C to quit[0m
+2025-05-04 01:29:02,983 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:29:26,059 - WARNING -  * Debugger is active!
+2025-05-04 01:29:26,076 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 01:29:26,146 - INFO - 192.168.1.113 - - [04/May/2025 01:29:26] "GET / HTTP/1.1" 200 -
+2025-05-04 01:29:26,433 - INFO - 192.168.1.113 - - [04/May/2025 01:29:26] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-04 01:45:14,449 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:45:14,479 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:45:20,752 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:45:43,958 - WARNING -  * Debugger is active!
+2025-05-04 01:45:43,968 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 01:56:12,681 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:56:12,703 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:56:23,904 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:56:51,994 - WARNING -  * Debugger is active!
+2025-05-04 01:56:52,022 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 01:57:23,972 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:57:23,974 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 01:57:26,851 - INFO -  * Restarting with watchdog (windowsapi)
+2025-05-04 01:57:58,323 - WARNING -  * Debugger is active!
+2025-05-04 01:57:58,355 - INFO -  * Debugger PIN: 724-066-795
+2025-05-04 02:04:36,797 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 02:04:36,849 - INFO -  * Detected change in 'C:\\Nishanth\\food-calorie-estimator\\server\\app.py', reloading
+2025-05-04 02:04:46,094 - INFO -  * Restarting with watchdog (windowsapi)
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998149, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 101, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 72, in get_food_density
+    model = client.GenerativeModel('gemini-2.0-flash-lite')
+            ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Client' object has no attribute 'GenerativeModel'
+Matched food:[]
+Matched food:[{'item': 'Sambar', 'volume_ml': 75, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998149, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 101, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 72, in get_food_density
+    model = client.GenerativeModel('gemini-2.0-flash-lite')
+            ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Client' object has no attribute 'GenerativeModel'
+Matched food:[{'item': 'Roti', 'volume_ml': 120, 'original_item': 'Roti', 'confidence': 0.9999999999998149, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 101, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 72, in get_food_density
+    model = client.GenerativeModel('gemini-2.0-flash-lite')
+            ^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Client' object has no attribute 'GenerativeModel'
+Matched food:[{'item': 'Sambar', 'volume_ml': 100, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Mixed Vegetable Curry', 'volume_ml': 80, 'original_item': 'Vegetable Curry', 'confidence': 0.8617427591682844, 'food_id': 39}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 101, in analyze_image
+    # Get density
+              ^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 72, in get_food_density
+AttributeError: 'Client' object has no attribute 'GenerativeModel'
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\785712ba-8512-4ce9-b71b-85eefbb87f50_images.jpeg
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998149, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 102, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Models.generate_content() got an unexpected keyword argument 'stream'
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\c42bd0f4-57c8-4942-832d-95146ed01dc5_images.jpeg
+Matched food:[{'item': 'Roti', 'volume_ml': 200, 'original_item': 'Roti', 'confidence': 0.9999999999998149, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 102, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Models.generate_content() got an unexpected keyword argument 'stream'
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\18b09168-d597-48ee-889d-3dc1a9d9c17c_images.jpeg
+Matched food:[]
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\7ac30167-118d-4c40-b909-5963b18ab16a_images.jpeg
+Matched food:[{'item': 'Sambar', 'volume_ml': 75, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 102, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Models.generate_content() got an unexpected keyword argument 'stream'
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\5a8f1a17-904e-4e52-a898-6fb0089dc8d9_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 60, 'original_item': 'sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 60, 'original_item': 'chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 102, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Models.generate_content() got an unexpected keyword argument 'stream'
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\81508210-53e9-41d5-8aac-7225d7d5eef9_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'Chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 102, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Models.generate_content() got an unexpected keyword argument 'stream'
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\798a5d82-228c-4f88-ba7b-32da06a5fc78_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'Chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 110, in analyze_image
+    nutrition = get_nutrition_info(food_name, weight_g)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\nutritionix.py", line 13, in get_nutrition_info
+    raise Exception("NutritionIX API credentials not set.")
+Exception: NutritionIX API credentials not set.
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\efaac482-804d-4919-9e68-2b9c101809cb_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 75, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'Chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\507615c1-71d7-4a05-bebb-135495d5d46b_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 120, 'original_item': 'idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\812afc55-8d02-4264-8e42-e864cda34049_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'Chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\1bb2ec6d-4948-4891-bfe9-2764e4590a29_images.jpeg
+Matched food:[{'item': 'Dal Makhani', 'volume_ml': 80, 'original_item': 'Dal', 'confidence': 0.856641142834439, 'food_id': 28}, {'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998149, 'food_id': 24}]
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\e8dc5572-d6b4-4960-a68d-e178560b5e9e_4php84bl6rod1.jpeg
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'Sambar', 'confidence': 0.9999999999996845, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'Chutney', 'confidence': 0.9999999999998617, 'food_id': 74}]
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\313d40bf-767b-4770-800a-ba294ffc0986_download (1).jpeg
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'Dosa', 'confidence': 0.9999999999998609, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 25, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 30, 'original_item': 'Vada', 'confidence': 0.9999999999998167, 'food_id': 3}, {'item': 'Uttapam', 'volume_ml': 35, 'original_item': 'Uttapam', 'confidence': 0.9999999999996119, 'food_id': 7}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 110, in analyze_image
+    nutrition = get_nutrition_info(food_name, weight_g)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\nutritionix.py", line 25, in get_nutrition_info
+    response.raise_for_status()
+  File "C:\Users\ravis\AppData\Roaming\Python\Python312\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://trackapi.nutritionix.com/v2/natural/nutrients
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\96a43018-423d-426f-a141-1e668e80a292_download (1).jpeg
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'Dosa', 'confidence': 0.9999999999998609, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 25, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 30, 'original_item': 'Vada', 'confidence': 0.9999999999998167, 'food_id': 3}, {'item': 'Uttapam', 'volume_ml': 40, 'original_item': 'Uttapam', 'confidence': 0.9999999999996119, 'food_id': 7}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 110, in analyze_image
+    nutrition = get_nutrition_info(food_name, weight_g)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\nutritionix.py", line 25, in get_nutrition_info
+    response.raise_for_status()
+  File "C:\Users\ravis\AppData\Roaming\Python\Python312\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://trackapi.nutritionix.com/v2/natural/nutrients
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\a341fc51-c745-471c-8d52-c7fb256ff5ae_download (1).jpeg
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'Dosa', 'confidence': 0.9999999999998609, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 25, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 30, 'original_item': 'Vada', 'confidence': 0.9999999999998167, 'food_id': 3}, {'item': 'Uttapam', 'volume_ml': 40, 'original_item': 'Uttapam', 'confidence': 0.9999999999996119, 'food_id': 7}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 110, in analyze_image
+    calories = nutrition.get("calories", 0)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\nutritionix.py", line 25, in get_nutrition_info
+    response.raise_for_status()
+  File "C:\Users\ravis\AppData\Roaming\Python\Python312\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://trackapi.nutritionix.com/v2/natural/nutrients
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\0fac8eb3-9f4c-4668-9a19-ca3e6f640ed8_download (1).jpeg
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'Dosa', 'confidence': 0.9999999999998609, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 25, 'original_item': 'Idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 30, 'original_item': 'Vada', 'confidence': 0.9999999999998167, 'food_id': 3}, {'item': 'Uttapam', 'volume_ml': 75, 'original_item': 'Uttapam', 'confidence': 0.9999999999996119, 'food_id': 7}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 110, in analyze_image
+    calories = nutrition.get("calories", 0)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\nutritionix.py", line 25, in get_nutrition_info
+    response.raise_for_status()
+  File "C:\Users\ravis\AppData\Roaming\Python\Python312\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://trackapi.nutritionix.com/v2/natural/nutrients
+Saving file to: C:\Nishanth\food-calorie-estimator\server\uploads\90f3e737-5d17-4cf5-b3db-b285c6ca7ce6_download (1).jpeg
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'dosa', 'confidence': 0.9999999999998609, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 25, 'original_item': 'idli', 'confidence': 0.999999999999817, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 30, 'original_item': 'vada', 'confidence': 0.9999999999998167, 'food_id': 3}, {'item': 'Uttapam', 'volume_ml': 35, 'original_item': 'uttapam', 'confidence': 0.9999999999996119, 'food_id': 7}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 110, in analyze_image
+    calories = nutrition.get("calories", 0)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\nutritionix.py", line 25, in get_nutrition_info
+    response.raise_for_status()
+  File "C:\Users\ravis\AppData\Roaming\Python\Python312\site-packages\requests\models.py", line 1024, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 404 Client Error: Not Found for url: https://trackapi.nutritionix.com/v2/natural/nutrients
+Matched food:[{'item': 'Idli', 'volume_ml': 100, 'original_item': 'Idli', 'confidence': 0.999999999999801, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'Sambar', 'confidence': 0.9999999999996276, 'food_id': 4}, {'item': 'Chutney', 'volume_ml': 50, 'original_item': 'Chutney', 'confidence': 0.9999999999998446, 'food_id': 74}]
+Nutritionix query: Idli, 100.0
+Nutritionix query: Sambar, 50.0
+Nutritionix query: Chutney, 50.0
+Matched food:[{'item': 'Paratha', 'volume_ml': 150, 'original_item': 'Paratha', 'confidence': 0.9999999999997191, 'food_id': 19}]
+Nutritionix query: Paratha, 150.0
+Matched food:[]
+Matched food:[{'item': 'Sambar', 'volume_ml': 100, 'original_item': 'Sambar', 'confidence': 0.9999999999996276, 'food_id': 4}, {'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Nutritionix query: Sambar, 100.0
+Nutritionix query: Roti, 100.0
+Matched food:[{'item': 'Roti', 'volume_ml': 120, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Nutritionix query: Roti, 120.0
+Matched food:[{'item': 'Sambar', 'volume_ml': 100, 'original_item': 'Sambar', 'confidence': 0.9999999999996276, 'food_id': 4}, {'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 120, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 120, 'original_item': 'roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'dosa', 'confidence': 0.9999999999997797, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 30, 'original_item': 'idli', 'confidence': 0.999999999999801, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 40, 'original_item': 'vada', 'confidence': 0.9999999999997351, 'food_id': 3}, {'item': 'Uttapam', 'volume_ml': 60, 'original_item': 'uttapam', 'confidence': 0.9999999999995728, 'food_id': 7}]
+Matched food:[{'item': 'Dal Makhani', 'volume_ml': 300, 'original_item': 'Dal', 'confidence': 0.8566411724711235, 'food_id': 28}, {'item': 'Salad', 'volume_ml': 50, 'original_item': 'Salad', 'confidence': 0.9999999999998459, 'food_id': 111}]
+Matched food:[{'item': 'Dal Makhani', 'volume_ml': 300, 'original_item': 'Dal', 'confidence': 0.8566411724711235, 'food_id': 28}, {'item': 'Salad', 'volume_ml': 100, 'original_item': 'Salad', 'confidence': 0.9999999999998459, 'food_id': 111}]
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 120, 'original_item': 'roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 120, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 101, in handle_request
+    raise exc
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 156, in _connect
+    stream = stream.start_tls(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_backends\sync.py", line 154, in start_tls
+    with map_exceptions(exc_map):
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Python312\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 101, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 4799, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 3775, in _generate_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 648, in _request
+    response = self._httpx_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+Matched food:[{'item': 'Roti', 'volume_ml': 150, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 101, in map_httpcore_exceptions
+    yield
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 250, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 101, in handle_request
+    raise exc
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 78, in handle_request
+    stream = self._connect(request)
+             ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_sync\connection.py", line 156, in _connect
+    stream = stream.start_tls(**kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpcore\_backends\sync.py", line 154, in start_tls
+    with map_exceptions(exc_map):
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Python312\Lib\site-packages\httpcore\_exceptions.py", line 14, in map_exceptions
+    raise to_exc(exc) from exc
+httpcore.ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 101, in analyze_image
+    density = get_food_density(food_name)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\gemini_utils.py", line 73, in get_food_density
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 4799, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 3775, in _generate_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 648, in _request
+    response = self._httpx_client.request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 825, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 914, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 942, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 979, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_client.py", line 1014, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 249, in handle_request
+    with map_httpcore_exceptions():
+  File "C:\Python312\Lib\contextlib.py", line 158, in __exit__
+    self.gen.throw(value)
+  File "C:\Python312\Lib\site-packages\httpx\_transports\default.py", line 118, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.ConnectError: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1000)
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 75, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 50, 'original_item': 'Roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[{'item': 'Roti', 'volume_ml': 100, 'original_item': 'roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 74, in analyze_image
+    detected_foods, raw_response = estimate_volumes_via_gpt4o(image, debug=True)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\volume_estimation.py", line 78, in estimate_volumes_via_gpt4o
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 4799, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 3775, in _generate_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Python312\Lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': "Gemini 2.5 Pro Preview doesn't have a free quota tier. Please use Gemini 2.5 Pro Experimental (models/gemini-2.5-pro-exp-03-25) instead. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.", 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerDay-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-pro-exp', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '2s'}]}}
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 74, in analyze_image
+    detected_foods, raw_response = estimate_volumes_via_gpt4o(image, debug=True)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\volume_estimation.py", line 78, in estimate_volumes_via_gpt4o
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 4799, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 3775, in _generate_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Python312\Lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': "Gemini 2.5 Pro Preview doesn't have a free quota tier. Please use Gemini 2.5 Pro Experimental (models/gemini-2.5-pro-exp-03-25) instead. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.", 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerDay-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-pro-exp', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'model': 'gemini-2.5-pro-exp', 'location': 'global'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '53s'}]}}
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 74, in analyze_image
+    detected_foods, raw_response = estimate_volumes_via_gpt4o(image, debug=True)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\volume_estimation.py", line 78, in estimate_volumes_via_gpt4o
+    response = client.models.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 4799, in generate_content
+    response = self._generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\models.py", line 3775, in _generate_content
+    response_dict = self._api_client.request(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 726, in request
+    response = self._request(http_request, stream=False)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\google\genai\_api_client.py", line 655, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Python312\Lib\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 429 RESOURCE_EXHAUSTED. {'error': {'code': 429, 'message': "Gemini 2.5 Pro Preview doesn't have a free quota tier. Please use Gemini 2.5 Pro Experimental (models/gemini-2.5-pro-exp-03-25) instead. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits.", 'status': 'RESOURCE_EXHAUSTED', 'details': [{'@type': 'type.googleapis.com/google.rpc.QuotaFailure', 'violations': [{'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerDay-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerDayPerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_requests', 'quotaId': 'GenerateRequestsPerMinutePerProjectPerModel-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}, {'quotaMetric': 'generativelanguage.googleapis.com/generate_content_free_tier_input_token_count', 'quotaId': 'GenerateContentInputTokensPerModelPerMinute-FreeTier', 'quotaDimensions': {'location': 'global', 'model': 'gemini-2.5-pro-exp'}}]}, {'@type': 'type.googleapis.com/google.rpc.Help', 'links': [{'description': 'Learn more about Gemini API quotas', 'url': 'https://ai.google.dev/gemini-api/docs/rate-limits'}]}, {'@type': 'type.googleapis.com/google.rpc.RetryInfo', 'retryDelay': '41s'}]}}
+Matched food:[{'item': 'Roti', 'volume_ml': 200, 'original_item': 'roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Exception on /analyze [POST]
+Traceback (most recent call last):
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 1511, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 919, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask_cors\extension.py", line 176, in wrapped_function
+    return cors_after_request(app.make_response(f(*args, **kwargs)))
+                                                ^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 917, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python312\Lib\site-packages\flask\app.py", line 902, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\app.py", line 67, in analyze_image
+    detected_foods, raw_response = estimate_volumes_via_gpt4o(image, debug=True)
+                                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Nishanth\food-calorie-estimator\server\utils\volume_estimation.py", line 51, in estimate_volumes_via_gpt4o
+    raise RuntimeError("OPENAI_API_KEY is not set.")
+RuntimeError: OPENAI_API_KEY is not set.
+Matched food:[{'item': 'Dal Makhani', 'volume_ml': 100, 'original_item': 'dal', 'confidence': 0.8566411724711235, 'food_id': 28}, {'item': 'Mixed Vegetable Curry', 'volume_ml': 100, 'original_item': 'vegetable curry', 'confidence': 0.8617427615168362, 'food_id': 39}, {'item': 'Roti', 'volume_ml': 50, 'original_item': 'roti', 'confidence': 0.9999999999998407, 'food_id': 24}]
+Matched food:[]
+Matched food:[{'item': 'Idli', 'volume_ml': 150, 'original_item': 'idli', 'confidence': 0.999999999999801, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 100, 'original_item': 'sambar', 'confidence': 0.9999999999996276, 'food_id': 4}]
+Matched food:[{'item': 'Idli', 'volume_ml': 150, 'original_item': 'idli', 'confidence': 0.999999999999801, 'food_id': 1}, {'item': 'Sambar', 'volume_ml': 100, 'original_item': 'sambar', 'confidence': 0.9999999999996276, 'food_id': 4}]
+Matched food:[]
+Matched food:[]
+Matched food:[]
+Matched food:[]
+Matched food:[]
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'dosa', 'confidence': 0.9999999999997797, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 100, 'original_item': 'idli', 'confidence': 0.999999999999801, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 80, 'original_item': 'vada', 'confidence': 0.9999999999997351, 'food_id': 3}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'sambar', 'confidence': 0.9999999999996276, 'food_id': 4}, {'item': 'Mango Pickle', 'volume_ml': 20, 'original_item': 'mango pickle', 'confidence': 0.9999999999998848, 'food_id': 50}]
+Matched food:[{'item': 'Dosa', 'volume_ml': 150, 'original_item': 'dosa', 'confidence': 0.9999999999997797, 'food_id': 2}, {'item': 'Idli', 'volume_ml': 100, 'original_item': 'idli', 'confidence': 0.999999999999801, 'food_id': 1}, {'item': 'Vada', 'volume_ml': 80, 'original_item': 'vada', 'confidence': 0.9999999999997351, 'food_id': 3}, {'item': 'Sambar', 'volume_ml': 50, 'original_item': 'sambar', 'confidence': 0.9999999999996276, 'food_id': 4}, {'item': 'Mango Pickle', 'volume_ml': 20, 'original_item': 'mango pickle', 'confidence': 0.9999999999998848, 'food_id': 50}]
+Matched food:[{'item': 'Ramen', 'volume_ml': 300, 'original_item': 'ramen noodles', 'confidence': 0.8747578352374238, 'food_id': 149}]
+Matched food:[]
+Matched food:[]
