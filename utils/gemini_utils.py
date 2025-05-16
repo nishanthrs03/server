@@ -34,20 +34,8 @@ def _chat_with_retry(payload, retries=3, base_delay=2):
             continue
         resp.raise_for_status()
 
-# --------------------------------------------------------------------------- #
-#  Function: identify_food_item
-#  Uses GPT‑4o Vision to identify the food item in a given image (cv2 array).
-#  The image is resized and JPEG‑compressed to keep the request payload small.
-# --------------------------------------------------------------------------- #
 
 
-# Configure the API
-
-# --------------------------------------------------------------------------- #
-#  Function: identify_food_item
-#  Uses Gemini Pro Vision to identify the food item in a given image (cv2 array).
-#  The image is resized and JPEG‑compressed to keep the request payload small.
-# --------------------------------------------------------------------------- #
 def identify_food_item(image_cv):
     """
     Identify the food item in the given image (cv2 image array) using Gemini Pro Vision.
@@ -107,11 +95,6 @@ def identify_food_item(image_cv):
     return food_name
 
 
-# --------------------------------------------------------------------------- #
-#  Function: get_food_density
-#  Uses Gemini Pro to get the average density (in g/mL) for a given food name.
-#  Expects Gemini Pro to return only the numeric value.
-# --------------------------------------------------------------------------- #
 def get_food_density(food_name):
     payload = {
         "model": "gpt-4o-mini",
