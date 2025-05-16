@@ -33,11 +33,19 @@ app.logger.addHandler(handler)
 UPLOAD_FOLDER = os.path.join(os.getcwd(), "uploads")
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 
+@app.after_request
+def add_cors_headers(response):
+    response.headers.add("Access-Control-Allow-Origin", "*")
+    response.headers.add("Access-Control-Allow-Methods", "GET, POST, OPTIONS")
+    response.headers.add("Access-Control-Allow-Headers", "Content-Type, Authorization")
+    return response
+
+
 @app.route('/', methods=['GET'])
 def home():
     return "Welcome to my Flask app! Use /analyze to POST your image."
 
-@app.route('/analyze', methods=['POST'])
+@app.route('/analyze', methods=['POST', 'OPTIONS'])
 def analyze_image():
     """
     Endpoint to analyze an uploaded food image using GPT‑4o for volume estimation.
